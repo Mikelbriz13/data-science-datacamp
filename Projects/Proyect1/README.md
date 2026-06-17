@@ -22,6 +22,16 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `description` | Description of the show |
 | `genre` | Show genre |
 
-**1. Get the average time of the Netflix shows.**
+**1. Get the average time of the Netflix shows, in minutes.**
 
 **2. Get the number of Netflix Action Movies released between 1990 and 1999 (included) with a duration of less than 90 minutes.**
+
+# **Results**
+
+## 1. Average time.
+
+The average time of all the shows is 99 minutes
+
+## 2. Number of Action Movies in the 90s.
+
+The number of actions movies released between 1990 and 1999 in Netlix is 7
